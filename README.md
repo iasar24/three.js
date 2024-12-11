@@ -49,7 +49,7 @@ This is still very much a work in progress! There are several things that still 
   - Support very large scenes (streaming sections & LOD)
 
 ## Online demo
-[https://projects.markkellogg.org/threejs/demo_gaussian_splats_3d.php](https://projects.markkellogg.org/threejs/demo_gaussian_splats_3d.php)
+[https://projects.markkellogg.org/threejs/demo_gaussian_splats_3d.php](https://projects.markkelogg.org/threejs/demo_gaussian_splats_3d.php)
 
 ## Controls
 Mouse
